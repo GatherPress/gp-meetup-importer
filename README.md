@@ -1,1 +1,1 @@
-# gp-meetup-importer
+# GatherPress Meetup Importer
